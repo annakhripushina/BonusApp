@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logo">ЛОГОТИП</string>
+    <string name="currentQuantity">300 бонусов</string>
+    <string name="dataBurning">29.03 сгорит</string>
+    <string name="forBurningQuantity">250 бонусов</string>
+
+
+    <plurals name="pluralsBonus">
+        <item quantity="zero">бонусов</item>
+        <item quantity="one">бонус</item>
+        <item quantity="two">бонуса</item>
+        <item quantity="few">бонуса</item>
+        <item quantity="many">бонусов</item>
+        <item quantity="other">бонусов</item>
+    </plurals>
+
+</resources>
